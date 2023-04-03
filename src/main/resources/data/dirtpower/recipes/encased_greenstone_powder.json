@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "redstone",
+    "ingredients": [
+        {
+            "tag": "dirtpower:encased_redstone_powders"
+        },
+        {
+            "item": "minecraft:green_dye"
+        }
+    ],
+    "result": {
+        "item": "dirtpower:encased_greenstone_powder",
+        "count": 1
+    }
+}

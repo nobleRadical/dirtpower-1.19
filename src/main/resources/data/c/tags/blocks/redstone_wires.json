@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#dirtpower:encased_redstone_powders",
+        "minecraft:redstone_wire"
+    ]
+}

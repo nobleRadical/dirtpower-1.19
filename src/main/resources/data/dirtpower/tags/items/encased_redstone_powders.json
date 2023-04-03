@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "dirtpower:encased_redstone_powder",
+        "dirtpower:encased_greenstone_powder",
+        "dirtpower:encased_bluestone_powder"
+    ]
+}
